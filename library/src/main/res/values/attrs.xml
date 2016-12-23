@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+ <declare-styleable name="ScoreView">
+
+     <attr name="score_circle_width" format="dimension"></attr>
+     <attr name="score_number" format="string"></attr>
+     <attr name="score_text_size" format="dimension"></attr>
+     <attr name="total_score" format="string"></attr>
+     <attr name="score_text_color" format="color"></attr>
+     <attr name="score_circle_color" format="color"></attr>
+     <attr name="score_circl_real_number_color" format="color"></attr>
+     <attr name="fen_text_size" format="dimension"></attr>
+     <attr name="fen_circle_color" format="color"></attr>
+     <attr name="fen_text_color" format="color"></attr>
+ </declare-styleable>
+
+</resources>
